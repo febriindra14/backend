@@ -1,3 +1,4 @@
-Untuk menjalankan di visual studio code 
+Untuk menjalankan di visual studio code : 
 node index.js
-tetapi masih ada kesalahan error
+
+note : tetapi masih ada kesalahan error
